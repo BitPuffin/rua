@@ -1,0 +1,12 @@
+#+TITLE: Rua
+
+Lua for Racket.
+
+This is just a prototype to familiarize myself with language making in
+Racket. I do not intend to improve it actively once it reaches a stage
+of my liking (who knows in the future).
+
+That said will probably welcome PRs in the future if someone starts
+using this.
+
+More documentation coming soon maybe.
